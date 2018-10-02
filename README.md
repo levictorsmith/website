@@ -11,5 +11,5 @@ Some cool frameworks I'm using for this are: React (obviously) and Bulma (for CS
 - vim
 - VSCode
 - tmux
-- Chrome, although I've been seducted by Firefox at times...
+- Chrome, although I've been seduced by Firefox at times...
 - Lots of others, but these are the big ones I use to make sure I'm productive
